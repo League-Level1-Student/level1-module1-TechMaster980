@@ -7,6 +7,10 @@ package _01_race_car;
 
 
 public class RaceCar {
+	public static void main(String[] args) {
+		
+		
+	}
 	private String brand;
 	private int positionInRace;
 	public boolean damaged = false;
