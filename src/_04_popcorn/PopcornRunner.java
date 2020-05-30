@@ -8,6 +8,8 @@ public static void main(String[] args) {
 Microwave micro = new Microwave();
 micro.putInMicrowave(pop);
 String flavor = JOptionPane.showInputDialog("what flavor do you want");
+micro.setTime(2);
+micro.startMicrowave();
 
 }
 }
