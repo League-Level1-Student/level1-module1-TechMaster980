@@ -4,9 +4,12 @@ import javax.swing.JOptionPane;
 
 public class duck {
 public static void main(String[] args) {
-	string JOptionPane
+	string JOptionPane = numberOfFriends
+	Object numberOfFriends;
+	Object numberOfFriends;
 	Duck(String favoriteFood, int numberOfFriends) {
-        this.favoriteFood = favoriteFood;
+        Object favoriteFood;
+		this.favoriteFood = favoriteFood;
         this.numberOfFriends = numberOfFriends;
  }
 	
