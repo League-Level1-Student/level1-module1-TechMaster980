@@ -53,7 +53,10 @@ public class binaryConverter implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
-		
+		String binary = text.getText();
+		binary = convert(binary);
+		label.setText(binary);
+		frame.pack();
 	}
 
 
